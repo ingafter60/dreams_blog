@@ -14,4 +14,10 @@ STEPS: 2
 3. Loading the static
 4. Making dynamic link
 
+STEPS: 3
+
+1. Create model for Author, Category, Post
+2. Register model to admin
+3. Create 3 posts in admin
+4. Load the posts to index, use forloop and for
 
