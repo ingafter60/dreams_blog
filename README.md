@@ -7,4 +7,11 @@ STEPS: 1
 2. Create the app: blog
 3. Add static and template
 
+STEPS: 2
+
+1. Making templates inheritance
+2. Functioning the static and templates
+3. Loading the static
+4. Making dynamic link
+
 
