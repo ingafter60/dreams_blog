@@ -21,3 +21,7 @@ STEPS: 3
 3. Create 3 posts in admin
 4. Load the posts to index, use forloop and for
 
+STEPS: 4
+
+1. Load latest posts
+2. Making News Latter work: send email
